@@ -1,5 +1,5 @@
-# 📑그날 그날 모든 활동들을 정리(Today I Learned)
-###  2025-02
+# 📑그날 그날 활동들을 정리 (Today I Learned)
+### 2月
 `[2월 첫째주, 1주차]`
 - 2025-02-03: 시스템 설계를 위한 아키텍처의 종류와 특성, 요구사항 분석, UML 도구들의 종류 [(상세 내역 링크)](https://github.com/Jinviz/ray.kim-til/blob/main/Feb/250203.md)
 - 2025-02-04: 프로세스와 스레드의 특성과 둘 간의 관계와 장단점 [(상세 내역 링크)](https://github.com/Jinviz/ray.kim-til/blob/main/Feb/250204.md)
@@ -8,9 +8,10 @@
 - 2025-02-07: Java Deep Dive (추상클래스, 인터페이스, 직렬화, 역직렬화, 스레드 생명주기 등) [(상세 내역 링크)](https://github.com/Jinviz/ray.kim-til/blob/main/Feb/250207.md)
 
 `[2월 둘째주, 2주차]`
+- 2025-02-10: 공유 자원, 임계 영역, 동기화, 락, 조건 변수, 세마포어에 대한 이해와 정리 [(상세 내역 링크)](https://github.com/Jinviz/ray.kim-til/blob/main/Feb/250210.md)
 
 `[2월 셋째주, 3주차]`
 
 `[2월 넷째주, 4주차]`
 
-### 2025-03
+### 3月
